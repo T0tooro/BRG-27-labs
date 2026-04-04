@@ -9,7 +9,7 @@
 
 ## About This Repository
 
-This repository contains all lab evidence, scripts, and configuration files for the ISEA assignment. The work spans local Linux system administration on Ubuntu 24.04 LTS (hostname: `totoro-lab`) and cloud infrastructure provisioning on Microsoft Azure, covering service management, file permissions, bash scripting, cloud deployment, DNS/TLS configuration, cron automation, and Security Information and Event Management (SIEM) deployment via Wazuh.
+This repository contains all lab evidence, scripts, and configuration files for the ISEA assignment. This work spans local Linux system administration on Ubuntu 24.04 LTS (hostname: `totoro-lab`) my own Ubuntu on baremetal and cloud infrastructure provisioning on Microsoft Azure which i have done before, covering service management, file permissions, bash scripting, cloud deployment, DNS/TLS configuration, cron automation, and Security Information and Event Management (SIEM) deployment via Wazuh (my own previous project).
 
 ---
 
