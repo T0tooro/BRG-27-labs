@@ -36,7 +36,7 @@ BRG-27-labs/
     └── crontab-entry.txt         # Cron schedule: 0 2 * * * /bin/bash ~/scripts/backup.sh
 ```
 
-> **Note:** If you are viewing this repo for marking, the full written report (with reflections and analysis) is in the submitted `.docx` file. This repo holds the raw evidence and scripts referenced in that report.
+> **Note:** If you are viewing this repo for marking, the full written report (with reflections and analysis) is in the submitted `.docx` file. This repo holds the raw evidence and scripts referenced in that report. Here just for me to document here and there.
 
 ---
 
