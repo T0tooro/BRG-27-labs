@@ -2,7 +2,7 @@
 
 **Student:** Ng Jun Rong  
 **Student ID:** CT0357253  
-**Module:** (ISEA)  
+**Module:** Infrastructure and Systems Engineering for Asia (ISEA)  
 **Submission Date:** 29 March 2026  
 
 ---
@@ -31,7 +31,7 @@ BRG-27-labs/
 │   └── 10-wazuh-siem/            # Section 7 — Docker Compose, Wazuh dashboard
 ├── scripts/
 │   ├── backup.sh                 # Timestamped tar.gz backup with logging
-│   └── myscript.sh               # System monitoring script (df -h, free -h)
+│   └── myscript.sh               # System monitoring script (whoami, df -h, free -h)
 └── configs/
     └── crontab-entry.txt         # Cron schedule: 0 2 * * * /bin/bash ~/scripts/backup.sh
 ```
